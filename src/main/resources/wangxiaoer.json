@@ -1,0 +1,14 @@
+{
+  "birthday": "1990-01-01",
+  "major": [
+    "理发",
+    "挖掘机"
+  ],
+  "has_g": false,
+  "school": "蓝翔",
+  "name": "王小二",
+  "comment": "这是一个注释",
+  "age": 25.2,
+  "car": null,
+  "house": null
+}
